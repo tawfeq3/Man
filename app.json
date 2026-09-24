@@ -6,7 +6,7 @@
 
 "identifier": "com.plus.esign",
 
-"sourceURL": "https://raw.githubusercontent.com/tawfeq3/Plus/main/app.json",
+"sourceURL": "https://raw.githubusercontent.com/tawfeq3/man/main/app.json",
 
 "apps": [
 
@@ -24,11 +24,11 @@
 
 "versionDescription": "Feather 2.8.2 ",
 
-"downloadURL": "https://github.com/tawfeq3/Plus/raw/refs/heads/main/apps/Feather.ipa",
+"downloadURL": "https://github.com/tawfeq3/man/raw/refs/heads/main/apps/Feather.ipa",
 
 "localizedDescription": "Feather IPA",
 
-"iconURL": "https://raw.githubusercontent.com/tawfeq3/Plus/main/icons/feather.png",
+"iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/feather.png",
 
 "tintColor": "5865F2",
 
@@ -54,11 +54,11 @@
 
 "versionDescription": "HUDURI 8.3 ",
 
-"downloadURL": "https://github.com/tawfeq3/Plus/raw/refs/heads/main/apps/hud.ipa",
+"downloadURL": "https://github.com/tawfeq3/man/raw/refs/heads/main/apps/hud.ipa",
 
 "localizedDescription": "HUDURI",
 
-"iconURL": "https://raw.githubusercontent.com/tawfeq3/Plus/main/icons/hud.png",
+"iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/hud.png",
 
 "tintColor": "5865F2",
 
