@@ -1,114 +1,148 @@
-
-
-
 {
-
-
-"name": "Plus Store",
-
-
-"identifier": "com.plus.esign",
-
-
-"sourceURL": "https://raw.githubusercontent.com/tawfeq3/man/main/app.json",
-
-
-"apps": [
-
-
-{
-
-
-"name": "HUDURI",
-
-
-"bundleIdentifier": "com.t2.AvailoHader",
-
-
-"developerName": "Plus Store",
-
-
-"version": "8.3",
-
-
-"versionDate": "2026-01-14T00:00:00+03:00",
-
-
-"versionDescription": "HUDURI 8.3 ",
-
-
-"downloadURL": "https://github.com/tawfeq3/man/raw/refs/heads/main/apps/hud.ipa",
-
-
-"localizedDescription": "HUDURI",
-
-
-"iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/hud.png",
-
-
-"tintColor": "5865F2",
-
-
-"isLanZouCloud": 0,
-
-
-"size": 16043213,
-
-
-"type": 1
-
-
+  "name": "Plus Store",
+  "subtitle": "",
+  "description": "متجر بلس لآدوات تغيير الموقع",
+  "iconURL": "https://i.imgur.com/2je6fH0.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "My Example App",
+      "bundleIdentifier": "com.m4n0s9sbnu.f4i6kibbla",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "staffGateWayApp",
+      "bundleIdentifier": "com.zdmj7e1rhc.mwbllqh06i",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/Cv2LFjw.png",
+      "tintColor": "#36c87f",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://files.catbox.moe/bz59mx.ipa",
+          "size": 36000000,
+          "version": "1.0.17",
+          "buildVersion": null,
+          "date": "2026-09-23T22:51:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "We need access to your camera to scan QR codes and redeem your rewards.",
+          "NSFaceIDUsageDescription": "We use Face ID to let you sign in quickly and securely.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "We need access to your location to provide personalized services and improve your experience by delivering location-based content and features.",
+          "NSLocationAlwaysUsageDescription": "Your location helps us notify you of time-sensitive offers and updates when you're on the go.",
+          "NSLocationWhenInUseUsageDescription": "We use your location to show nearby service providers and allow location-based search results.",
+          "NSPhotoLibraryAddUsageDescription": "We need permission to save photos to your photo library.",
+          "NSPhotoLibraryUsageDescription": "We need access to your photo library to upload files."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "معًا",
+      "bundleIdentifier": "com.maan.co",
+      "marketplaceID": "",
+      "developerName": "PlusStore",
+      "subtitle": "",
+      "localizedDescription": "برنامج معًا مع أداه تغير الموقع",
+      "iconURL": "https://i.imgur.com/EXb6wvz.png",
+      "tintColor": "#36c87f",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.17",
+          "date": "2026-09-22T10:00:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/tawfeq3/Man/releases/download/1.0/Ma.ipa",
+          "size": 36000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "We need access to your camera to scan QR codes and redeem your rewards.",
+          "NSFaceIDUsageDescription": "We use Face ID to let you sign in quickly and securely.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "We need access to your location to provide personalized services and improve your experience by delivering location-based content and features.",
+          "NSLocationAlwaysUsageDescription": "Your location helps us notify you of time-sensitive offers and updates when you're on the go.",
+          "NSLocationWhenInUseUsageDescription": "We use your location to show nearby service providers and allow location-based search results.",
+          "NSPhotoLibraryAddUsageDescription": "We need permission to save photos to your photo library.",
+          "NSPhotoLibraryUsageDescription": "We need access to your photo library to upload files."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "HUDURI",
+      "bundleIdentifier": "com.t2.AvailoHader",
+      "marketplaceID": "8.3",
+      "developerName": "PlusStore",
+      "subtitle": "",
+      "localizedDescription": "برنامج حضوري مع أداه تغير الموقع",
+      "iconURL": "https://i.imgur.com/M0uswWQ.png",
+      "tintColor": "#108c7c",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "8.3",
+          "date": "2026-01-14T10:00:00+03:00",
+          "localizedDescription": "برنامج حضوري مع أداه تغير الموقع ",
+          "downloadURL": "https://github.com/tawfeq3/man/raw/refs/heads/main/apps/hud.ipa",
+          "size": 16100000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "To find and connect to beacon devices, to detect office location by beacon id. ",
+          "NSBluetoothPeripheralUsageDescription": "To find and connect to beacon devices, to detect office location by beacon id. ",
+          "NSCalendarsUsageDescription": "This app requires calendar access to function properly.",
+          "NSCameraUsageDescription": "To register and  check  Presence By using your face. ",
+          "NSContactsUsageDescription": "This app requires contacts access to function properly.",
+          "NSFaceIDUsageDescription": "",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "This app requires constant access to your location in order to track your position, even when the screen is off or the app is in the background.",
+          "NSLocationAlwaysUsageDescription": "Your location is used to confirm your workplace check-in, for example verifying attendance inside the office. ",
+          "NSLocationUsageDescription": "Your location is used to confirm your workplace check-in, for example verifying attendance inside the office. ",
+          "NSLocationWhenInUseUsageDescription": "Your location is used to confirm your workplace check-in, for example verifying attendance inside the office. ",
+          "NSMainNibFile~ipad": "",
+          "NSMicrophoneUsageDescription": " To register and  check  Presence By using your voice ",
+          "NSMotionUsageDescription": "This app requires motion detection access to function properly.",
+          "NSPhotoLibraryAddUsageDescription": "This app requires photo library access to function properly.",
+          "NSPhotoLibraryUsageDescription": "To save your images and voice records in database. ",
+          "NSRemindersUsageDescription": "This app requires reminders access to function properly."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
 }
-
-,
-
-
-{
-
-
-"name": "معًا",
-
-
-"bundleIdentifier": "com.maan.co",
-
-
-"developerName": "Plus Store",
-
-
-"version": "1.0.17",
-
-
-"versionDate": "2026-09-22T00:00:00+03:00",
-
-
-"versionDescription": " معًا 1.0.17 ",
-
-
-"downloadURL": "https://github.com/tawfeq3/Man/releases/download/1.0/Ma.ipa", 
-
-"localizedDescription": "معًا",
-
-
-"iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/Ma.png",
-
-
-"tintColor": "5865F2",
-
-
-"isLanZouCloud": 0,
-
-
-"size": 37043213,
-
-
-"type": 1
-
-
-}
-
-
-]
-
-
-}
-
