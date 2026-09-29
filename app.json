@@ -1,159 +1,80 @@
 {
-
-
-"name": "Plus Store",
-
-
-"subtitle": "",
-
-
-"description": "متجر بلس لآدوات تغيير الموقع",
-
-
-"iconURL": "https://i.imgur.com/2je6fH0.png",
-
-
-"sourceURL": "https://raw.githubusercontent.com/tawfeq3/man/main/app.json",
-
-"apps": [
-
-{
-
-"name": "HUDURI",
-
-"bundleIdentifier": "com.t2.AvailoHader",
-
-"marketplaceID": "",
-
-"developerName": "Plus Store",
-
-"subtitle": "An awesome app.",
-
-"localizedDescription": "حضوري مع أداة تغيير الموقع \nلتفعيل الأداة اضغط ب 3 أصابع لمده 10 ثواني\nشرح للأداة في الصور",
-
-"iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/hud.png",
-
-"tintColor": "#5865F2",
-
-"category": "developer",
-
-"screenshots": [
-
-"https://i.imgur.com/3tmDMEe.png",
-
-"https://i.imgur.com/3sHjXF0.png",
-
-"https://i.imgur.com/W2zxk3f.png",
-
-"https://i.imgur.com/nM8M6pC.png",
-
-"https://i.imgur.com/MBn30mq.png",
-
-"https://i.imgur.com/o0UJTYX.png",
-
-"https://i.imgur.com/L37Saq0.png",
-
-"https://i.imgur.com/yZ5Uecj.png",
-
-"https://i.imgur.com/N5CQoPq.png",
-
-"https://i.imgur.com/xEEvjhM.png"
-
- ],
-
-"versions": [
-
-{
-
-"version": "8.3",
-
-"date": "2026-01-14T00:00:00+03:00",
-
-"localizedDescription": "New release!",
-
-"downloadURL": "https://github.com/tawfeq3/man/raw/refs/heads/main/apps/hud.ipa",
-
-"size": 16043213,
-
-"buildVersion": null,
-
-"minOSVersion": null
-
+  "name": "Plus Store",
+  "subtitle": "",
+  "description": "متجر بلس لآدوات تغيير الموقع",
+  "iconURL": "https://i.imgur.com/2je6fH0.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "HUDURI",
+      "bundleIdentifier": "com.t2.AvailoHader",
+      "marketplaceID": "",
+      "developerName": "Plus Store",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "حضوري مع أداة تغيير الموقع \nلتفعيل الأداة اضغط ب 3 أصابع لمده 10 ثواني\nشرح للأداة في الصور",
+      "iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/hud.png",
+      "tintColor": "#5865F2",
+      "category": "developer",
+      "screenshots": [
+        "https://i.imgur.com/3tmDMEe.png",
+        "https://i.imgur.com/3sHjXF0.png",
+        "https://i.imgur.com/W2zxk3f.png",
+        "https://i.imgur.com/nM8M6pC.png",
+        "https://i.imgur.com/MBn30mq.png",
+        "https://i.imgur.com/o0UJTYX.png",
+        "https://i.imgur.com/L37Saq0.png",
+        "https://i.imgur.com/yZ5Uecj.png",
+        "https://i.imgur.com/N5CQoPq.png",
+        "https://i.imgur.com/xEEvjhM.png"
+      ],
+      "versions": [
+        {
+          "version": "8.3",
+          "date": "2026-01-14T00:00:00+03:00",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/tawfeq3/man/raw/refs/heads/main/apps/hud.ipa",
+          "size": 16043213,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "معًا",
+      "bundleIdentifier": "com.maan.co",
+      "marketplaceID": "",
+      "developerName": "Plus Store",
+      "subtitle": "An awesome app.",
+      "localizedDescription": " معًا مع أداة تغيير الموقع",
+      "iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/Ma.png",
+      "tintColor": "#5865F2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.17",
+          "date": "2026-09-22T00:00:00+03:00",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/tawfeq3/Man/releases/download/1.0/Ma.ipa",
+          "size": 37043213,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
 }
-
- ],
-
-"appPermissions": {
-
-"entitlements": [],
-
-"privacy": {}
-
-},
-
-"patreon": {}
-
-},
-
-{
-
-"name": "معًا",
-
-"bundleIdentifier": "com.maan.co",
-
-"marketplaceID": "",
-
-"developerName": "Plus Store",
-
-"subtitle": "An awesome app.",
-
-"localizedDescription": " معًا مع أداة تغيير الموقع",
-
-"iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/Ma.png",
-
-"tintColor": "#5865F2",
-
-"category": "other",
-
-"screenshots": [],
-
-"versions": [
-
-{
-
-"version": "1.0.17",
-
-"date": "2026-09-22T00:00:00+03:00",
-
-"localizedDescription": "New release!",
-
-"downloadURL": "https://github.com/tawfeq3/Man/releases/download/1.0/Ma.ipa",
-
-"size": 37043213,
-
-"buildVersion": null,
-
-"minOSVersion": null
-
-}
-
- ],
-
-"appPermissions": {
-
-"entitlements": [],
-
-"privacy": {}
-
-},
-
-"patreon": {}
-
-}
-
-],
-
-"news": []
-
-}
-
