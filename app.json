@@ -1,131 +1,86 @@
-
-
 {
 
 
 "name": "Plus Store",
 
+
 "subtitle": "",
+
 
 "description": "متجر بلس لآدوات تغيير الموقع",
 
+
 "iconURL": "https://i.imgur.com/2je6fH0.png",
+
 
 "sourceURL": "https://raw.githubusercontent.com/tawfeq3/man/main/app.json",
 
+
+"featuredApps": [],
+
 "apps": [
 
-
 {
-
 
 "name": "HUDURI",
 
-
 "bundleIdentifier": "com.t2.AvailoHader",
 
+"marketplaceID": "",
 
 "developerName": "Plus Store",
 
+"subtitle": "An awesome app.",
 
-"version": "8.3",
-
-
-"versionDate": "2026-01-14T00:00:00+03:00",
-
-
-"versionDescription": "HUDURI 8.3 ",
-
-
-"downloadURL": "https://github.com/tawfeq3/man/raw/refs/heads/main/apps/hud.ipa",
-
-
-"localizedDescription": "حضوري مع أداة تغيير الموقع ",
-
+"localizedDescription": "حضوري مع أداة تغيير الموقع \nلتفعيل الأداة اضغط ب 3 أصابع لمده 10 ثواني\nشرح للأداة في الصور",
 
 "iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/hud.png",
 
+"tintColor": "#5865F2",
 
-"tintColor": "5865F2",
+"category": "developer",
 
+"screenshots": [
 
-"isLanZouCloud": 0,
+"https://i.imgur.com/3tmDMEe.png",
 
+"https://i.imgur.com/3sHjXF0.png",
 
-"size": 16043213,
+"https://i.imgur.com/W2zxk3f.png",
 
+"https://i.imgur.com/nM8M6pC.png",
 
-"type": 1
+"https://i.imgur.com/MBn30mq.png",
 
+"https://i.imgur.com/o0UJTYX.png",
 
-}
+"https://i.imgur.com/L37Saq0.png",
 
+"https://i.imgur.com/yZ5Uecj.png",
 
-,
+"https://i.imgur.com/N5CQoPq.png",
 
+"https://i.imgur.com/xEEvjhM.png"
 
+ ],
+
+"versions": [
 
 {
 
+"version": "8.3",
 
+"date": "2026-01-14T00:00:00+03:00",
 
-"name": "معًا",
+"localizedDescription": "New release!",
 
+"downloadURL": "https://github.com/tawfeq3/man/raw/refs/heads/main/apps/hud.ipa",
 
+"size": 16043213,
 
-"bundleIdentifier": "com.maan.co",
+"buildVersion": null,
 
-
-
-"developerName": "Plus Store",
-
-
-
-"version": "1.0.17",
-
-
-
-"versionDate": "2026-09-22T00:00:00+03:00",
-
-
-
-"versionDescription": " معًا 1.0.17 ",
-
-
-
-"downloadURL": "https://github.com/tawfeq3/Man/releases/download/1.0/Ma.ipa",
-
-
-"localizedDescription": " معًا مع أداة تغيير الموقع",
-
-
-
-"iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/Ma.png",
-
-
-
-"tintColor": "5865F2",
-
-
-
-"isLanZouCloud": 0,
-
-
-
-"size": 37043213,
-
-
-
-"type": 1
-
-
+"minOSVersion": null
 
 }
 
-
-
-]
-
-
-
-}
