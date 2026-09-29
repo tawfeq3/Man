@@ -3,11 +3,15 @@
 
 "name": "Plus Store",
 
+
 "subtitle": "",
+
 
 "description": "متجر بلس لآدوات تغيير الموقع",
 
+
 "iconURL": "https://i.imgur.com/2je6fH0.png",
+
 
 "sourceURL": "https://raw.githubusercontent.com/tawfeq3/man/main/app.json",
 
@@ -74,6 +78,82 @@
 "buildVersion": null,
 
 "minOSVersion": null
+
+}
+
+ ],
+
+"appPermissions": {
+
+"entitlements": [],
+
+"privacy": {}
+
+},
+
+"patreon": {}
+
+},
+
+{
+
+"name": "معًا",
+
+"bundleIdentifier": "com.maan.co",
+
+"marketplaceID": "",
+
+"developerName": "Plus Store",
+
+"subtitle": "An awesome app.",
+
+"localizedDescription": " معًا مع أداة تغيير الموقع",
+
+"iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/Ma.png",
+
+"tintColor": "#5865F2",
+
+"category": "other",
+
+"screenshots": [],
+
+"versions": [
+
+{
+
+"version": "1.0.17",
+
+"date": "2026-09-22T00:00:00+03:00",
+
+"localizedDescription": "New release!",
+
+"downloadURL": "https://github.com/tawfeq3/Man/releases/download/1.0/Ma.ipa",
+
+"size": 37043213,
+
+"buildVersion": null,
+
+"minOSVersion": null
+
+}
+
+ ],
+
+"appPermissions": {
+
+"entitlements": [],
+
+"privacy": {}
+
+},
+
+"patreon": {}
+
+}
+
+],
+
+"news": []
 
 }
 
