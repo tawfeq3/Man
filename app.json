@@ -1,249 +1,83 @@
 
-
-
 {
-
-
 
 "name": "Plus Store",
 
-
 "subtitle": "",
-
 
 "description": "متجر بلس لآدوات تغيير الموقع",
 
-
 "iconURL": "https://i.imgur.com/2je6fH0.png",
-
 
 "sourceURL": "https://raw.githubusercontent.com/tawfeq3/man/main/app.json",
 
-
 "apps": [
 
-
-
 {
-
-
 
 "name": "HUDURI",
 
-
-
 "bundleIdentifier": "com.t2.AvailoHader",
 
-
-
 "developerName": "Plus Store",
-
-
 
 "version": "8.3",
 
-
-
 "versionDate": "2026-01-14T00:00:00+03:00",
-
-
 
 "versionDescription": "HUDURI 8.3 ",
 
-
-
 "downloadURL": "https://github.com/tawfeq3/man/raw/refs/heads/main/apps/hud.ipa",
-
-
 
 "localizedDescription": "حضوري مع أداة تغيير الموقع لتفعيل الأداة اضغط ب 3 أصابع ",
 
-
-
 "iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/hud.png",
-
-
 
 "tintColor": "5865F2",
 
-
-
 "isLanZouCloud": 0,
-
-
 
 "size": 16043213,
 
-
-
 "type": 1
-
-
 
 }
 
-
-
 ,
 
-
-
-
 {
-
-
-
 
 "name": "معًا",
 
-
-
-
 "bundleIdentifier": "com.maan.co",
-
-
-
 
 "developerName": "Plus Store",
 
-
-
-
 "version": "1.0.17",
-
-
-
 
 "versionDate": "2026-09-22T00:00:00+03:00",
 
-
-
-
 "versionDescription": " معًا 1.0.17 ",
-
-
-
 
 "downloadURL": "https://github.com/tawfeq3/Man/releases/download/1.0/Ma.ipa",
 
-
-
 "localizedDescription": " معًا مع أداة تغيير الموقع لتفيعل الأداة اضغط ب 3 اصابع لمدة 10 ثواني",
-
-
-
 
 "iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/Ma.png",
 
 
-
-
 "tintColor": "5865F2",
-
-
-
 
 "isLanZouCloud": 0,
 
-
-
-
 "size": 37043213,
-
-
-
 
 "type": 1
 
-
-
-
 }
-
 
 ,
 
-
-
-
-{
-
-
-
-
-"name": " 2 معًا",
-
-
-
-
-"bundleIdentifier": "com.maan",
-
-
-
-
-"developerName": "Plus Store",
-
-
-
-
-"version": "1.0.17",
-
-
-
-
-"versionDate": "2026-09-22T00:00:00+03:00",
-
-
-
-
-"versionDescription": " معًا 1.0.17 ",
-
-
-
-
-"downloadURL": "https://files.catbox.moe/h0hhza.ipa",
-
-
-
-"localizedDescription": " معًا مع أداة تغيير الموقع لتفيعل الأداة",
-
-
-
-
-"iconURL": "https://raw.githubusercontent.com/tawfeq3/man/main/icons/Ma.png",
-
-
-
-
-"tintColor": "5865F2",
-
-
-
-
-"isLanZouCloud": 0,
-
-
-
-
-"size": 37043213,
-
-
-
-
-"type": 1
-
-
-
-
-}
-
-
-
-
 ]
 
-
-
-
 }
-
