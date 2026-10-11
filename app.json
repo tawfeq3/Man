@@ -26,7 +26,11 @@
 "versionDate": "2026-01-14T00:00:00+03:00",
 
 "versionDescription": "HUDURI 8.3 ",
-
+  
+"screenshotURLs": [
+    "https://files.catbox.moe/njlpji.jpg",
+]
+  
 "downloadURL": "https://github.com/tawfeq3/man/raw/refs/heads/main/apps/hud.ipa",
 
 "localizedDescription": "حضوري مع أداة تغيير الموقع لتفعيل الأداة اضغط ب 3 أصابع ",
