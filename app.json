@@ -35,22 +35,21 @@
       
       "size": 37043213,
     },
- {
-"name": "YouTube",
-"developerName": "Plus",
-"version": "21.41.5",
-"versionDate": "2026-10-12",
-"versionDescription": "YouTube plus ",
-"downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.3/YTKACE_1.1.3_YouTube_21.41.5.ipa",
-"localizedDescription": "تطبيق يوتيوب معدل للايفون.
-
+    {
+      "name": "YouTube",
+      "developerName": "Plus",
+      "version": "21.41.5",
+      "versionDate": "2026-10-12",
+      "versionDescription": "YouTube plus ",
+      "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.3/YTKACE_1.1.3_YouTube_21.41.5.ipa",
+      "localizedDescription": "تطبيق يوتيوب معدل للايفون.
 ‏فيه مزايا كثير وابرزها :
 ‏التشغيل في الخلفية مع وضع التكرار.
 ‏تحميل المقطع او الصوت فقط.
 ‏تخطي الاعلانات حتى الي داخل المقطع.
-‎‏اخفاء محتوى الشورتس, وغيرها كثير. ",
-"iconURL": " ",
-"size": 133939,
-}
+        ‎‏اخفاء محتوى الشورتس, وغيرها كثير. ",
+      "iconURL": " ",
+      "size": 133939,
+     }
   ]
 }
